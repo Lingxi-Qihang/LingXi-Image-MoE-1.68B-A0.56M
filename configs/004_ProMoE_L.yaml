@@ -1,0 +1,45 @@
+model_name: "ProMoE_TC_L"
+
+gpu_ids: [0]
+
+###### For train
+image_size: 256
+total_train_batch_size: 2
+lr: 0.0001
+weight_decay: 0
+use_pre_latents: True
+resume_checkpoint: True
+log_interval: 10
+
+DiT_L_config:
+  qk_norm: False
+  MoE_config:
+    num_routed_experts: 12
+    moe_intermediate_size: 2048  # 1024 // (1+1 shared) * mlp_ration (4)
+    shared_expert_intermediate_size: 2048  # 1024 // (1+1 shared) * mlp_ration (4)
+    load_balance_loss_coef: 0
+    norm_topk_prob: False
+    seq_aux: False
+    use_shared_expert: True
+    interleave: True
+    init_MoeMLP: False
+    top_k: 1
+    router_weight_mode: identity
+    routing_contrastive_lam: 1
+    use_top_k_for_routing_contrastive: True
+    routing_contrastive_temperature: 0.07
+
+
+###### For sample
+step_list_for_sample: [1000, 50000, 100000, 500000]
+# sample_every_step: 50000
+num_fid_samples: 5000
+sample_batch_size: 16
+sample_steps: 250
+sample_shift: 1.0
+guide_scale_list: [4.0, 5.0, 7.0]
+save_img_num: 50000
+save_inception_features: False
+
+latent_root: "E:/dataset/DiffSynth-Studio/OpenGPT-4o-Image/sd-vae-ft-mse_Latents_1024img_npz"
+text_root: "E:/dataset/DiffSynth-Studio/OpenGPT-4o-Image/t5_text_features/gen"

@@ -1,0 +1,646 @@
+Model: outputs_30
+L1 category scores:
+	attribute: 84.23891330403515
+	relation: 92.69335406140692
+	entity: 82.13013920362577
+	global: 79.14110429447852
+	other: 57.199999999999996
+L2 category scores:
+	attribute - color: 87.19236564540432
+	attribute - other: 80.97886540600668
+	attribute - shape: 75.54585152838428
+	attribute - size: 72.31404958677686
+	attribute - texture: 85.41033434650456
+	entity - part: 82.03125
+	entity - state: 81.81818181818183
+	entity - whole: 82.20338983050848
+	global -: 79.14110429447852
+	other - count: 51.5
+	other - text: 80.0
+	relation - non-spatial: 87.34177215189874
+	relation - spatial: 93.04347826086956
+Image path: D:/mywork/pythonProject/LingXi-Image-MoE - 副本/outputs_30
+Save results to: D:/mywork/pythonProject/LingXi-Image-MoE - 副本/outputs_30\dpg-bench_20260717-150425_results.txt
+DPG-Bench score: 71.08662857452282
+
+Model: outputs_40
+L1 category scores:
+	relation: 92.73221919937816
+	entity: 83.55454839753965
+	attribute: 85.51737914502597
+	other: 60.8
+	global: 81.59509202453987
+L2 category scores:
+	attribute - color: 88.49824208940231
+	attribute - other: 84.09343715239154
+	attribute - shape: 77.29257641921397
+	attribute - size: 68.59504132231406
+	attribute - texture: 86.32218844984803
+	entity - part: 82.03125
+	entity - state: 83.29809725158562
+	entity - whole: 83.77118644067797
+	global -: 81.59509202453987
+	other - count: 56.00000000000001
+	other - text: 80.0
+	relation - non-spatial: 86.07594936708861
+	relation - spatial: 93.16770186335404
+Image path: D:/mywork/pythonProject/LingXi-Image-MoE - 副本/outputs
+Save results to: D:/mywork/pythonProject/LingXi-Image-MoE - 副本/outputs\dpg-bench_20260716-073305_results.txt
+DPG-Bench score: 73.48085994501817
+
+
+Model: outputs_45
+L1 category scores:
+	relation: 92.382432957637
+	attribute: 86.65601278465842
+	entity: 84.21819359015863
+	other: 61.199999999999996
+	global: 82.20858895705521
+L2 category scores:
+	attribute - color: 89.70366649924661
+	attribute - other: 83.53726362625139
+	attribute - shape: 80.78602620087337
+	attribute - size: 70.66115702479338
+	attribute - texture: 87.84194528875379
+	entity - part: 82.6171875
+	entity - state: 83.08668076109936
+	entity - whole: 84.61864406779661
+	global -: 82.20858895705521
+	other - count: 56.99999999999999
+	other - text: 78.0
+	relation - non-spatial: 86.07594936708861
+	relation - spatial: 92.79503105590062
+Image path: D:/mywork/pythonProject/LingXi-Image-MoE - 副本/outputs_45
+Save results to: D:/mywork/pythonProject/LingXi-Image-MoE - 副本/outputs_45\dpg-bench_20260716-194949_results.txt
+DPG-Bench score: 74.05831098856238
+
+
+Model: outputs_50
+L1 category scores:
+	entity: 84.83327937843963
+	attribute: 87.01558130243707
+	other: 62.0
+	relation: 92.53789350952196
+	global: 82.20858895705521
+L2 category scores:
+	attribute - color: 89.65344048216977
+	attribute - other: 85.65072302558399
+	attribute - shape: 77.72925764192141
+	attribute - size: 71.900826446281
+	attribute - texture: 88.08510638297872
+	entity - part: 83.7890625
+	entity - state: 83.50951374207189
+	entity - whole: 85.21186440677965
+	global -: 82.20858895705521
+	other - count: 56.49999999999999
+	other - text: 84.0
+	relation - non-spatial: 87.34177215189874
+	relation - spatial: 92.87784679089027
+Image path: D:/mywork/pythonProject/LingXi-Image-MoE - 副本/outputs_50
+Save results to: D:/mywork/pythonProject/LingXi-Image-MoE - 副本/outputs_50\dpg-bench_20260717-063254_results.txt
+DPG-Bench score: 75.27223935487585
+
+
+Model: outputs_55
+L1 category scores:
+	attribute: 87.634838194167
+	global: 79.75460122699386
+	relation: 92.96541002720559
+	other: 67.60000000000001
+	entity: 86.03107801877631
+L2 category scores:
+	attribute - color: 90.65796082370669
+	attribute - other: 84.20467185761957
+	attribute - shape: 85.1528384279476
+	attribute - size: 71.48760330578511
+	attribute - texture: 88.57142857142857
+	entity - part: 84.5703125
+	entity - state: 83.82663847780127
+	entity - whole: 86.63135593220339
+	global -: 79.75460122699386
+	other - count: 64.0
+	other - text: 82.0
+	relation - non-spatial: 86.07594936708861
+	relation - spatial: 93.41614906832298
+Image path: D:/mywork/pythonProject/LingXi-Image-MoE - 副本/outputs_55
+Save results to: D:/mywork/pythonProject/LingXi-Image-MoE - 副本/outputs_55\dpg-bench_20260717-225525_results.txt
+DPG-Bench score: 76.8528170995857
+
+Model: outputs_60
+L1 category scores:
+	attribute: 87.03555733120257
+	relation: 92.92654488923435
+	entity: 86.07963742311428
+	global: 81.28834355828221
+	other: 68.4
+L2 category scores:
+	attribute - color: 90.75841285786038
+	attribute - other: 84.20467185761957
+	attribute - shape: 79.03930131004367
+	attribute - size: 74.3801652892562
+	attribute - texture: 87.05167173252279
+	entity - part: 82.2265625
+	entity - state: 83.29809725158562
+	entity - whole: 87.05508474576271
+	global -: 81.28834355828221
+	other - count: 65.5
+	other - text: 80.0
+	relation - non-spatial: 86.07594936708861
+	relation - spatial: 93.37474120082815
+Image path: D:/mywork/pythonProject/LingXi-Image-MoE - 副本/outputs_60
+Save results to: D:/mywork/pythonProject/LingXi-Image-MoE - 副本/outputs_60\dpg-bench_20260718-071531_results.txt
+DPG-Bench score: 77.46948774699702
+
+
+Model: outputs_65
+L1 category scores:
+	attribute: 87.3152217339193
+	global: 80.98159509202453
+	entity: 85.98251861443833
+	other: 69.19999999999999
+	relation: 93.70384764865915
+L2 category scores:
+	attribute - color: 89.95479658463084
+	attribute - other: 85.31701890989989
+	attribute - shape: 80.34934497816593
+	attribute - size: 70.66115702479338
+	attribute - texture: 88.6322188449848
+	entity - part: 82.8125
+	entity - state: 85.20084566596195
+	entity - whole: 86.48305084745763
+	global -: 80.98159509202453
+	other - count: 67.5
+	other - text: 76.0
+	relation - non-spatial: 87.9746835443038
+	relation - spatial: 94.07867494824018
+Image path: D:/mywork/pythonProject/LingXi-Image-MoE - 副本/outputs_65
+Save results to: D:/mywork/pythonProject/LingXi-Image-MoE - 副本/outputs_65\dpg-bench_20260718-181516_results.txt
+DPG-Bench score: 76.72226684283262
+
+Model: outputs_70
+L1 category scores:
+	attribute: 88.23411905713144
+	relation: 94.20909444228526
+	entity: 86.41955325348009
+	global: 80.06134969325154
+	other: 71.2
+L2 category scores:
+	attribute - color: 91.21044701155199
+	attribute - other: 85.65072302558399
+	attribute - shape: 82.96943231441048
+	attribute - size: 73.96694214876032
+	attribute - texture: 88.87537993920974
+	entity - part: 84.375
+	entity - state: 85.20084566596195
+	entity - whole: 86.88559322033899
+	global -: 80.06134969325154
+	other - count: 70.0
+	other - text: 76.0
+	relation - non-spatial: 86.70886075949366
+	relation - spatial: 94.69979296066252
+Image path: D:/mywork/pythonProject/LingXi-Image-MoE - 副本/outputs_70
+Save results to: D:/mywork/pythonProject/LingXi-Image-MoE - 副本/outputs_70\dpg-bench_20260719-042537_results.txt
+DPG-Bench score: 77.95983351289296
+
+
+Model: outputs_75
+L1 category scores:
+	attribute: 87.77467039552536
+	entity: 86.5328585302687
+	other: 74.4
+	relation: 93.62611737271668
+	global: 80.67484662576688
+L2 category scores:
+	attribute - color: 90.60773480662984
+	attribute - other: 85.65072302558399
+	attribute - shape: 83.4061135371179
+	attribute - size: 69.83471074380165
+	attribute - texture: 88.75379939209726
+	entity - part: 84.765625
+	entity - state: 83.1923890063425
+	entity - whole: 87.39406779661016
+	global -: 80.67484662576688
+	other - count: 74.5
+	other - text: 74.0
+	relation - non-spatial: 87.9746835443038
+	relation - spatial: 93.99585921325053
+Image path: D:/mywork/pythonProject/LingXi-Image-MoE - 副本/outputs_75
+Save results to: D:/mywork/pythonProject/LingXi-Image-MoE - 副本/outputs_75\dpg-bench_20260719-154430_results.txt
+DPG-Bench score: 77.85367115896135
+
+
+Model: outputs_80
+L1 category scores:
+	attribute: 87.81462245305633
+	other: 70.8
+	relation: 94.09249902837155
+	global: 80.3680981595092
+	entity: 87.53641955325348
+L2 category scores:
+	attribute - color: 90.65796082370669
+	attribute - other: 85.76195773081201
+	attribute - shape: 82.09606986899564
+	attribute - size: 74.3801652892562
+	attribute - texture: 88.26747720364742
+	entity - part: 84.5703125
+	entity - state: 84.46088794926004
+	entity - whole: 88.47457627118645
+	global -: 80.3680981595092
+	other - count: 68.5
+	other - text: 80.0
+	relation - non-spatial: 87.34177215189874
+	relation - spatial: 94.53416149068323
+Image path: D:/mywork/pythonProject/LingXi-Image-MoE - 副本/outputs_80
+Save results to: D:/mywork/pythonProject/LingXi-Image-MoE - 副本/outputs_80\dpg-bench_20260720-055138_results.txt
+DPG-Bench score: 78.7740127813368
+
+
+Model: outputs_85
+L1 category scores:
+        entity: 87.180317254775
+        relation: 94.28682471822775
+        other: 69.6
+        attribute: 87.69476628046344
+        global: 80.06134969325154
+L2 category scores:
+        attribute - color: 90.80863887493722
+        attribute - other: 85.20578420467186
+        attribute - shape: 81.22270742358079
+        attribute - size: 72.31404958677686
+        attribute - texture: 88.44984802431611
+        entity - part: 86.328125
+        entity - state: 84.35517970401692
+        entity - whole: 87.83898305084745
+        global -: 80.06134969325154
+        other - count: 69.0
+        other - text: 72.0
+        relation - non-spatial: 87.9746835443038
+        relation - spatial: 94.69979296066252
+Image path: D:/mywork/pythonProject/LingXi-Image-MoE - 副本/outputs_85
+Save results to: D:/mywork/pythonProject/LingXi-Image-MoE - 副本/outputs_85\dpg-bench_20260720-153656_results.txt
+DPG-Bench score: 78.90793870678479
+
+
+Model: outputs_90
+L1 category scores:
+        other: 71.2
+        attribute: 87.89452656811825
+        entity: 87.08319844609906
+        global: 80.67484662576688
+        relation: 94.0536338904003
+L2 category scores:
+        attribute - color: 91.0095429432446
+        attribute - other: 85.53948832035594
+        attribute - shape: 82.09606986899564
+        attribute - size: 74.79338842975206
+        attribute - texture: 88.14589665653494
+        entity - part: 84.1796875
+        entity - state: 83.82663847780127
+        entity - whole: 88.05084745762713
+        global -: 80.67484662576688
+        other - count: 70.0
+        other - text: 76.0
+        relation - non-spatial: 84.81012658227847
+        relation - spatial: 94.65838509316771
+Image path: D:/mywork/pythonProject/LingXi-Image-MoE - 副本/outputs_90
+Save results to: D:/mywork/pythonProject/LingXi-Image-MoE - 副本/outputs_90\dpg-bench_20260721-031241_results.txt
+DPG-Bench score: 78.78701249341644
+
+
+Model: outputs_95
+L1 category scores:
+        entity: 87.60116542570411
+        attribute: 88.35397522972434
+        relation: 94.0536338904003
+        global: 80.67484662576688
+        other: 68.8
+L2 category scores:
+        attribute - color: 91.51180311401306
+        attribute - other: 86.09566184649611
+        attribute - shape: 82.53275109170306
+        attribute - size: 73.55371900826447
+        attribute - texture: 88.75379939209726
+        entity - part: 85.3515625
+        entity - state: 84.56659619450318
+        entity - whole: 88.45338983050848
+        global -: 80.67484662576688
+        other - count: 67.5
+        other - text: 74.0
+        relation - non-spatial: 87.9746835443038
+        relation - spatial: 94.45134575569358
+Image path: D:/mywork/pythonProject/LingXi-Image-MoE - 副本/outputs_95
+Save results to: D:/mywork/pythonProject/LingXi-Image-MoE - 副本/outputs_95\dpg-bench_20260721-142134_results.txt
+DPG-Bench score: 79.34779709387581
+
+
+Model: outputs_100
+L1 category scores:
+        attribute: 88.45385537355173
+        entity: 87.73065717060537
+        relation: 94.17022930431403
+        global: 79.75460122699386
+        other: 70.39999999999999
+L2 category scores:
+        attribute - color: 90.9090909090909
+        attribute - other: 86.65183537263627
+        attribute - shape: 85.1528384279476
+        attribute - size: 76.85950413223141
+        attribute - texture: 88.6322188449848
+        entity - part: 85.7421875
+        entity - state: 85.41226215644821
+        entity - whole: 88.41101694915254
+        global -: 79.75460122699386
+        other - count: 70.0
+        other - text: 72.0
+        relation - non-spatial: 87.34177215189874
+        relation - spatial: 94.61697722567288
+Image path: D:/mywork/pythonProject/LingXi-Image-MoE - 副本/outputs_100
+Save results to: D:/mywork/pythonProject/LingXi-Image-MoE - 副本/outputs_100\dpg-bench_20260722-043130_results.txt
+DPG-Bench score: 79.57445130195238
+
+
+Model: outputs_105
+L1 category scores:
+        other: 70.0
+        entity: 87.29362253156361
+        attribute: 88.19416699960047
+        relation: 93.93703847648659
+        global: 80.67484662576688
+L2 category scores:
+        attribute - color: 91.16022099447514
+        attribute - other: 85.42825361512793
+        attribute - shape: 81.6593886462882
+        attribute - size: 74.79338842975206
+        attribute - texture: 88.99696048632218
+        entity - part: 84.9609375
+        entity - state: 84.24947145877378
+        entity - whole: 88.15677966101696
+        global -: 80.67484662576688
+        other - count: 69.5
+        other - text: 72.0
+        relation - non-spatial: 86.07594936708861
+        relation - spatial: 94.45134575569358
+Image path: D:/mywork/pythonProject/LingXi-Image-MoE - 副本/output_105
+Save results to: D:/mywork/pythonProject/LingXi-Image-MoE - 副本/output_105\dpg-bench_20260723-054526_results.txt
+DPG-Bench score: 78.96924123160788
+
+
+Model: outputs_110
+L1 category scores:
+        attribute: 88.2740711146624
+        entity: 87.40692780835222
+        other: 71.6
+        relation: 94.36455499417022
+        global: 80.06134969325154
+L2 category scores:
+        attribute - color: 91.26067302862883
+        attribute - other: 85.76195773081201
+        attribute - shape: 82.96943231441048
+        attribute - size: 76.03305785123968
+        attribute - texture: 88.57142857142857
+        entity - part: 83.984375
+        entity - state: 84.56659619450318
+        entity - whole: 88.34745762711864
+        global -: 80.06134969325154
+        other - count: 70.0
+        other - text: 78.0
+        relation - non-spatial: 87.34177215189874
+        relation - spatial: 94.824016563147
+Image path: D:/mywork/pythonProject/LingXi-Image-MoE - 副本/output_110
+Save results to: D:/mywork/pythonProject/LingXi-Image-MoE - 副本/output_110\dpg-bench_20260724-033627_results.txt
+DPG-Bench score: 78.97997268032542
+
+
+
+Model: outputs_115
+L1 category scores:
+        attribute: 88.03435876947663
+        other: 69.6
+        entity: 87.60116542570411
+        relation: 94.48115040808395
+        global: 80.06134969325154
+L2 category scores:
+        attribute - color: 90.80863887493722
+        attribute - other: 86.09566184649611
+        attribute - shape: 80.34934497816593
+        attribute - size: 73.55371900826447
+        attribute - texture: 88.93617021276596
+        entity - part: 85.3515625
+        entity - state: 84.88372093023256
+        entity - whole: 88.38983050847457
+        global -: 80.06134969325154
+        other - count: 68.5
+        other - text: 74.0
+        relation - non-spatial: 89.87341772151899
+        relation - spatial: 94.78260869565217
+Image path: D:/mywork/pythonProject/LingXi-Image-MoE - 副本/output_115
+Save results to: D:/mywork/pythonProject/LingXi-Image-MoE - 副本/output_115\dpg-bench_20260724-182208_results.txt
+DPG-Bench score: 79.21911828431249
+
+
+Model: outputs_120
+L1 category scores:
+        other: 70.39999999999999
+        entity: 87.29362253156361
+        attribute: 88.23411905713144
+        relation: 94.48115040808395
+        global: 81.28834355828221
+L2 category scores:
+        attribute - color: 91.41135107985937
+        attribute - other: 85.76195773081201
+        attribute - shape: 82.53275109170306
+        attribute - size: 75.6198347107438
+        attribute - texture: 88.38905775075987
+        entity - part: 83.59375
+        entity - state: 83.72093023255815
+        entity - whole: 88.41101694915254
+        global -: 81.28834355828221
+        other - count: 68.5
+        other - text: 78.0
+        relation - non-spatial: 89.24050632911393
+        relation - spatial: 94.824016563147
+Image path: D:/mywork/pythonProject/LingXi-Image-MoE - 副本/output_120
+Save results to: D:/mywork/pythonProject/LingXi-Image-MoE - 副本/output_120\dpg-bench_20260725-035627_results.txt
+DPG-Bench score: 79.00075318359063
+
+Model: outputs_125
+L1 category scores:
+        relation: 94.24795958025652
+        global: 80.67484662576688
+        entity: 87.40692780835222
+        attribute: 88.25409508589692
+        other: 70.39999999999999
+L2 category scores:
+        attribute - color: 91.10999497739829
+        attribute - other: 86.20689655172413
+        attribute - shape: 82.96943231441048
+        attribute - size: 75.6198347107438
+        attribute - texture: 88.51063829787233
+        entity - part: 83.59375
+        entity - state: 84.6723044397463
+        entity - whole: 88.36864406779661
+        global -: 80.67484662576688
+        other - count: 70.0
+        other - text: 72.0
+        relation - non-spatial: 87.34177215189874
+        relation - spatial: 94.69979296066252
+Image path: D:/mywork/pythonProject/LingXi-Image-MoE - 副本/output_125
+Save results to: D:/mywork/pythonProject/LingXi-Image-MoE - 副本/output_125\dpg-bench_20260725-142122_results.txt
+DPG-Bench score: 79.0778343127609
+
+Model: output_125_512
+L1 category scores:
+        relation: 85.96968519238243
+        attribute: 71.59408709548542
+        entity: 70.44350922628682
+        other: 39.2
+        global: 68.40490797546013
+L2 category scores:
+        attribute - color: 78.00100452034154
+        attribute - other: 66.51835372636262
+        attribute - shape: 57.64192139737992
+        attribute - size: 47.5206611570248
+        attribute - texture: 72.09726443768997
+        entity - part: 70.8984375
+        entity - state: 69.87315010570825
+        entity - whole: 70.50847457627118
+        global -: 68.40490797546013
+        other - count: 30.5
+        other - text: 74.0
+        relation - non-spatial: 75.9493670886076
+        relation - spatial: 86.62525879917185
+Image path: D:/mywork/pythonProject/LingXi-Image-MoE - 副本/output_125_512
+Save results to: D:/mywork/pythonProject/LingXi-Image-MoE - 副本/output_125_512\dpg-bench_20260729-055517_results.txt
+DPG-Bench score: 55.63765722384644
+
+
+Model: output_130_512
+L1 category scores:
+        relation: 93.97590361445783
+        other: 71.6
+        global: 76.68711656441718
+        attribute: 86.93567718737515
+        entity: 87.09938491421173
+L2 category scores:
+        attribute - color: 90.45705675539931
+        attribute - other: 84.09343715239154
+        attribute - shape: 74.67248908296943
+        attribute - size: 74.3801652892562
+        attribute - texture: 87.78115501519757
+        entity - part: 86.328125
+        entity - state: 83.08668076109936
+        entity - whole: 87.98728813559322
+        global -: 76.68711656441718
+        other - count: 71.5
+        other - text: 72.0
+        relation - non-spatial: 87.9746835443038
+        relation - spatial: 94.36853002070393
+Image path: D:/mywork/pythonProject/LingXi-Image-MoE - 副本/output_130_512
+Save results to: D:/mywork/pythonProject/LingXi-Image-MoE - 副本/output_130_512\dpg-bench_20260726-131218_results.txt
+DPG-Bench score: 77.73957016335072
+
+
+
+Model: output_135_512
+L1 category scores:
+        entity: 87.35836840401424
+        other: 74.4
+        attribute: 87.05553335996804
+        global: 77.91411042944786
+        relation: 93.82044306257286
+L2 category scores:
+        attribute - color: 90.3566047212456
+        attribute - other: 84.31590656284762
+        attribute - shape: 78.16593886462883
+        attribute - size: 72.31404958677686
+        attribute - texture: 87.96352583586626
+        entity - part: 87.6953125
+        entity - state: 82.24101479915433
+        entity - whole: 88.34745762711864
+        global -: 77.91411042944786
+        other - count: 73.5
+        other - text: 78.0
+        relation - non-spatial: 89.87341772151899
+        relation - spatial: 94.07867494824018
+Image path: D:/mywork/pythonProject/LingXi-Image-MoE - 副本/output_135_512
+Save results to: D:/mywork/pythonProject/LingXi-Image-MoE - 副本/output_135_512\dpg-bench_20260726-233427_results.txt
+DPG-Bench score: 78.53055019545509
+
+
+Model: output_140_512
+L1 category scores:
+        attribute: 87.05553335996804
+        other: 71.2
+        entity: 87.29362253156361
+        relation: 93.15973571706179
+        global: 77.91411042944786
+L2 category scores:
+        attribute - color: 90.55750878955298
+        attribute - other: 85.09454949944383
+        attribute - shape: 75.9825327510917
+        attribute - size: 71.07438016528926
+        attribute - texture: 87.78115501519757
+        entity - part: 85.9375
+        entity - state: 82.98097251585624
+        entity - whole: 88.30508474576271
+        global -: 77.91411042944786
+        other - count: 69.5
+        other - text: 78.0
+        relation - non-spatial: 87.9746835443038
+        relation - spatial: 93.49896480331263
+Image path: D:/mywork/pythonProject/LingXi-Image-MoE - 副本/output_140_512
+Save results to: D:/mywork/pythonProject/LingXi-Image-MoE - 副本/output_140_512\dpg-bench_20260727-123737_results.txt
+DPG-Bench score: 78.01728130360543
+
+
+Model: output_145_512
+L1 category scores:
+        attribute: 87.15541350379544
+        relation: 93.43179168286048
+        entity: 87.50404661702817
+        other: 74.8
+        global: 77.91411042944786
+L2 category scores:
+        attribute - color: 90.60773480662984
+        attribute - other: 85.76195773081201
+        attribute - shape: 76.41921397379913
+        attribute - size: 71.900826446281
+        attribute - texture: 87.47720364741642
+        entity - part: 84.765625
+        entity - state: 83.1923890063425
+        entity - whole: 88.66525423728814
+        global -: 77.91411042944786
+        other - count: 74.0
+        other - text: 78.0
+        relation - non-spatial: 88.60759493670885
+        relation - spatial: 93.74741200828157
+Image path: D:/mywork/pythonProject/LingXi-Image-MoE - 副本/output_145_512
+Save results to: D:/mywork/pythonProject/LingXi-Image-MoE - 副本/output_145_512\dpg-bench_20260727-235408_results.txt
+DPG-Bench score: 78.5304072680028
+
+
+
+Model: output_150_512
+L1 category scores:
+        attribute: 87.634838194167
+        entity: 87.24506312722565
+        other: 77.2
+        global: 77.60736196319019
+        relation: 93.74271278663039
+L2 category scores:
+        attribute - color: 91.26067302862883
+        attribute - other: 85.31701890989989
+        attribute - shape: 79.91266375545851
+        attribute - size: 71.07438016528926
+        attribute - texture: 88.0243161094225
+        entity - part: 84.9609375
+        entity - state: 83.40380549682875
+        entity - whole: 88.26271186440678
+        global -: 77.60736196319019
+        other - count: 76.0
+        other - text: 82.0
+        relation - non-spatial: 87.9746835443038
+        relation - spatial: 94.12008281573499
+Image path: D:/mywork/pythonProject/LingXi-Image-MoE - 副本/output_150_512
+Save results to: D:/mywork/pythonProject/LingXi-Image-MoE - 副本/output_150_512\dpg-bench_20260728-151101_results.txt
+DPG-Bench score: 78.24919865880258
