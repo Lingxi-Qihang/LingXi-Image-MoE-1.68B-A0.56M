@@ -18,7 +18,7 @@
 # 🔥 动态
 - 🧠 **1.68B 模型权重**：[ModelScope LingXi-Image-MoE-1.68B-A0.56M ](https://modelscope.cn/models/haohanxingcheng/LingXi-Image-MoE/tree/master/LingXi-Image-MoE-1.68B-A0.56M)
 - 📦 **125万步 checkpoint**：[ModelScope ckpt_step_1250000.pth](https://modelscope.cn/models/haohanxingcheng/LingXi-Image-MoE/tree/master/ckpt_step_1250000.pth)
-- [2026-07-27] **ProMoE‑L (1.68B)** 联合训练完成，论文《能力涌现的时序规律：一个 1.68B 全层混合专家文生图模型训练的动力学分析》（Temporal Patterns of Capability Emergence: A Fine-Grained Analysis of Training Dynamics in a 1.68B 
+- [2026-07-31] **ProMoE‑L (1.68B)** 联合训练完成，论文《能力涌现的时序规律：一个 1.68B 全层混合专家文生图模型训练的动力学分析》（Temporal Patterns of Capability Emergence: A Fine-Grained Analysis of Training Dynamics in a 1.68B 
 - [2026-07-13] 论文《从交替到全层：混合专家架构在文生图扩散模型中的对比研究》（From Alternating to Full-Layer: A Comparative Study of Mixture-of-Experts Architectures for Text-to-Image Diffusion Models）发布在 arXiv。
 - [2026-07-13] 模型权重同步上线 [HuggingFace](https://huggingface.co/shyai/LingXi-Image-MoE) 和 [ModelScope](https://modelscope.cn/models/haohanxingcheng/LingXi-Image-MoE)。
 - [2026-07-12] 完整代码 [GitHub](https://github.com/Lingxi-Qihang/LingXi-Image-MoE) 开源。
