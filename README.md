@@ -18,7 +18,9 @@ The "second highest spatial relationship in the world" mentioned in this article
 ---
 
 # 🔥 News
-- [2026-07-27] **ProMoE‑L (1.68B)** joint training completed. Paper "Temporal Patterns of Capability Emergence: A Fine-Grained Analysis of Training Dynamics in a 1.68B Full-Layer MoE Text-to-Image Model" released. checkpoint：https://modelscope.cn/models/haohanxingcheng/LingXi-Image-MoE/tree/master/LingXi-Image-MoE-1.68B-A0.56M
+- 🧠 **1.68B 模型权重**：[GitHub](https://github.com/Lingxi-Qihang/LingXi-Image-MoE-1.68B-A0.56M) | [ModelScope](https://modelscope.cn/models/haohanxingcheng/LingXi-Image-MoE/tree/master/LingXi-Image-MoE-1.68B-A0.56M)
+- 📦 **125万步 checkpoint**：[ModelScope](https://modelscope.cn/models/haohanxingcheng/LingXi-Image-MoE/tree/master/ckpt_step_1250000.pth)
+- [2026-07-27] **ProMoE‑L (1.68B)** joint training completed. Paper "Temporal Patterns of Capability Emergence: A Fine-Grained Analysis of Training Dynamics in a 1.68B Full-Layer MoE Text-to-Image Model" released. 
 - [2026-07-13] Paper "From Alternating to Full-Layer: A Comparative Study of Mixture-of-Experts Architectures for Text-to-Image Diffusion Models" released on arXiv.
 - [2026-07-13] Model weights available on [HuggingFace](https://huggingface.co/shyai/LingXi-Image-MoE) and [ModelScope](https://modelscope.cn/models/haohanxingcheng/LingXi-Image-MoE).
 - [2026-07-12] Full code open-sourced on [GitHub](https://github.com/Lingxi-Qihang/LingXi-Image-MoE).
