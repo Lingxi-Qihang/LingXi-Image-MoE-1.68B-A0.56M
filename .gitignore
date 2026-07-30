@@ -4,7 +4,6 @@ __pycache__/
 outputs/
 image_paths_cache.txt
 .DS_Store
-*.png
 *.zip
 *.npz
 *.pb
