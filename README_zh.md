@@ -16,7 +16,9 @@
 ###The "second highest spatial relationship in the world" mentioned in this article is an objective indicator based on the DPG Bench public evaluation benchmark, and is not self proclaimed or exaggerated by me. DPG Bench is one of the industry recognized standards for evaluating cultural and biological images, and the scores of all comparison models are obtained from official papers or public rankings. My 1.68B model has been fully open sourced, and any researcher can download weights, reproduce evaluations, and validate this result. Technology can be discussed, and scores can withstand scrutiny.
 
 # 🔥 动态
-- [2026-07-27] **ProMoE‑L (1.68B)** 联合训练完成，论文《能力涌现的时序规律：一个 1.68B 全层混合专家文生图模型训练的动力学分析》（Temporal Patterns of Capability Emergence: A Fine-Grained Analysis of Training Dynamics in a 1.68B Full-Layer MoE Text-to-Image Model）发布。权重路径：https://modelscope.cn/models/haohanxingcheng/LingXi-Image-MoE/tree/master/LingXi-Image-MoE-1.68B-A0.56M
+- 🧠 **1.68B 模型权重**：[ModelScope LingXi-Image-MoE-1.68B-A0.56M ](https://modelscope.cn/models/haohanxingcheng/LingXi-Image-MoE/tree/master/LingXi-Image-MoE-1.68B-A0.56M)
+- 📦 **125万步 checkpoint**：[ModelScope ckpt_step_1250000.pth](https://modelscope.cn/models/haohanxingcheng/LingXi-Image-MoE/tree/master/ckpt_step_1250000.pth)
+- [2026-07-27] **ProMoE‑L (1.68B)** 联合训练完成，论文《能力涌现的时序规律：一个 1.68B 全层混合专家文生图模型训练的动力学分析》（Temporal Patterns of Capability Emergence: A Fine-Grained Analysis of Training Dynamics in a 1.68B 
 - [2026-07-13] 论文《从交替到全层：混合专家架构在文生图扩散模型中的对比研究》（From Alternating to Full-Layer: A Comparative Study of Mixture-of-Experts Architectures for Text-to-Image Diffusion Models）发布在 arXiv。
 - [2026-07-13] 模型权重同步上线 [HuggingFace](https://huggingface.co/shyai/LingXi-Image-MoE) 和 [ModelScope](https://modelscope.cn/models/haohanxingcheng/LingXi-Image-MoE)。
 - [2026-07-12] 完整代码 [GitHub](https://github.com/Lingxi-Qihang/LingXi-Image-MoE) 开源。
