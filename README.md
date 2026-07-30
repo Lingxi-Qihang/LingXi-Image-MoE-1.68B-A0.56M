@@ -1,6 +1,6 @@
 <div align="center">
 
-# LingXi-Image-MoE: From Alternating to Full-Layer<br>A Comparative Study of Mixture-of-Experts Architectures for Text-to-Image Diffusion Models<br><small>从交替到全层：混合专家架构在文生图扩散模型中的对比研究</small>
+# LingXi-Image-MoE: From Alternating to Full-Layer<br>A Comparative Study of Mixture-of-Experts Architectures for Text-to-Image Diffusion Models
 
 <a href="https://arxiv.org/abs/xxxx.xxxxx" target="_blank"><img src="https://img.shields.io/badge/Paper-b5212f.svg?logo=arxiv" height="22px"></a>
 <a href="https://huggingface.co/shyai/LingXi-Image-MoE" target="_blank"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Model-d96902.svg" height="22px"></a>
